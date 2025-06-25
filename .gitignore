@@ -34,6 +34,9 @@ Thumbs.db
 *.rc
 /.qmake.cache
 /.qmake.stash
+/day01_foundation/data-type
+/day01_foundation/hello
+/day01_foundation/input-and-output
 
 # qtcreator generated files
 *.pro.user*
